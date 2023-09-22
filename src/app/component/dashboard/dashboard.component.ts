@@ -26,7 +26,7 @@ export class DashboardComponent implements OnInit {
       name : [''],
       salary: [''],
       email: ['']
-    });    
+    });
 
   }
 
